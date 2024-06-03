@@ -11,12 +11,15 @@
 }
 
 .nav a {
+  font-size: 20px;
 }
 
 .nav a:hover {
 }
 
 .nav a.active {
+  font-weight: bold;
+  font-size: 30px;
 }
 .close {
 }
